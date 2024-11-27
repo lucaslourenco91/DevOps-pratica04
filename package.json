@@ -1,0 +1,15 @@
+{
+  "name": "pratica04",
+  "version": "1.0.0",
+  "main": "Aluno.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
